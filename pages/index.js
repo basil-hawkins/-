@@ -11,7 +11,7 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title}>
-					Welcome to <a href="https://nextjs.org">磯村.js!</a>
+					Welcome to <a href="https://nextjs.org">next.js!</a>
 				</h1>
 
 				<section className="py-10 w-4/5 max-w-5xl mx-auto flex items-center justify-center flex-col">
